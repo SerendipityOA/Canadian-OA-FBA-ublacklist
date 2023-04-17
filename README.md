@@ -13,7 +13,9 @@ Get the Google Chrome extension <a href="https://chrome.google.com/webstore/deta
 Websites can be blocked via uBlacklist individually and/or via a subscription. 
 You can either copy individual sites from our blacklist and make your own in uBlacklist's settings or you can subscribe to our blacklist which will automatically update and add any new blacklisted sites automatically.
 
-View the how to video:
+
+View the how to video <a href="https://youtu.be/qsW55e0UJ3Y">here.</a>
+
 View the Google sheet with the list of blacklisted sources and the reason's why they are blacklisted <a href="https://docs.google.com/spreadsheets/d/1cruvbMpSFRAMBEPAaNkWZJ1DJ2mLVNEr0NU8NhaNoak/edit?usp=sharing">here.</a>
 
 <h2>Contact</h2>
