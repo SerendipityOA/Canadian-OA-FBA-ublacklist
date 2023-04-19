@@ -20,3 +20,8 @@ View the Google sheet with the list of blacklisted sources and the reason's why 
 
 <h2>Contact</h2>
 If you have any questions or come across a website that you believe should be included in our blacklist, please send it to: support@serendipityoa.ca
+
+<h2>Updates</h2>
+April 17, 2023; released blacklist
+April 19, 2023; updated blacklist with additional sites including a few blog sites, social media sites and Top Level Domains.
+Top Level Domains are country specific URLs and will blacklist results from all countries except for Canada and the US. Example: .ie for Ireland, .ph for The Phillippines etc.
