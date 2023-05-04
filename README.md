@@ -32,3 +32,7 @@ April 19, 2023;
 Top Level Domains are country specific URLs and will blacklist results from all countries except for Canada and the US. Example: .ie for Ireland, .ph for The Phillippines etc.
 
 -Updated raw data link (for subscriptions). It will maintain the current URL going forward.
+
+May 4, 2023;
+
+-updated blacklist with additional sites.
