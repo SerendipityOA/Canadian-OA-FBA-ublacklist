@@ -36,3 +36,7 @@ Top Level Domains are country specific URLs and will blacklist results from all 
 May 4, 2023;
 
 -updated blacklist with additional sites.
+
+June 1, 2023;
+
+-updated blacklist with additional sites.
