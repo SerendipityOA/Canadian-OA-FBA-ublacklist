@@ -1,5 +1,5 @@
 <h1>Serendipity OA's Blacklist for Canadian FBA OA Sellers</h1>
-This is a blacklist with over 140 websites that we have blacklisted for a variety of reasons including potential scam websites, non viable sources, sources that do ship etc.
+This is a blacklist with over 300 websites that we have blacklisted for a variety of reasons including potential scam websites, non viable sources, sources that do ship etc.
 Using this list in conjuction with the uBlacklist chrome extension will prevent these websites from populating in Google searches which can greatly increase sourcing efficiency for you and your team.
 
 Note: uBlacklist does not block sponsored websites from appearing. Also note that once a website is included in your blacklist, you will no longer see that website in your Google search results. If you would like to access that individual site, you can still go directly to their website, remove them from your blacklist or turn off the uBlacklist chrome extension.
