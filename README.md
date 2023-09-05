@@ -44,3 +44,7 @@ June 1, 2023;
 June 14, 2023;
 
 -updated blacklist with additional sites including few blog sites and news outlet.
+
+September 5, 2023;
+
+-updated blacklist with additional sites.
