@@ -56,3 +56,7 @@ December 21, 2023;
 March 17, 2024;
 
 -updated blacklist with additional sites.
+
+June 23, 2024
+
+--updated blacklist with additional sites.
